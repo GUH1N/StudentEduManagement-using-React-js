@@ -1,0 +1,41 @@
+.container
+{
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 100vh;
+}
+
+img
+{
+    padding: 28px 35px;
+}
+
+.nav ul
+{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+i
+{
+    font-size: 30px;
+}
+
+.setting .mergin
+{
+    margin: 0 20px;
+}
+
+.setting i
+{
+    padding: 10px;
+}
+
+.setting
+{
+    border-top: 2px solid black;
+    border-radius: 15px;
+}
